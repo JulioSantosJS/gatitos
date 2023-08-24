@@ -2,7 +2,7 @@ console.log("EJERCICIO C")
 
 let c=1;
 let cantGatos = 6;
-let cantPasos = 4;
+let cantPasos = 5;
 let p = " 🐾";
 while (c<cantPasos){
     pasos = pasos + " 🐾";
