@@ -2,7 +2,7 @@ console.log("EJERCICIO B")
 
 let contador = 1;
 let cantDeGatos = 4;
-let cantDePasos = 5;
+let cantDePasos = 4;
 let pasos = " 🐾";
 while (contador<cantDePasos){
     pasos = pasos + " 🐾";
